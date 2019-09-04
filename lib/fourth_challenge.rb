@@ -15,7 +15,7 @@ def fourth_challenge
         :age => "15",
         :status => "alive"
       },
-      :hero_friends =>[:name => ""],
+      :hero_friends =>[{:name => "Benvolio", :age =>"17", :attitude =>"worried"}, {}],
       }, 
     :capulet => {
       
