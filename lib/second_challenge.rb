@@ -9,7 +9,10 @@ def second_challenge
       }, 
     :capulet => {
       #your key/value pairs here!
-      
+      epic_tragedy = {
+  :montague => {},
+  :capulet => {}
+}
       }}
 
   
